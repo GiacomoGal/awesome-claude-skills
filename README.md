@@ -1,5 +1,7 @@
 # Awesome Claude Skills
 
+> **Ingresso del fork.** Avviso presente solo su [GiacomoGal/awesome-claude-skills](https://github.com/GiacomoGal/awesome-claude-skills). Il catalogo qui sotto è il testo del commit `2bbfe8b9779aeb34c619446efd7ea0a139a90658`. Uso e installazione delle skill elencate sono sconosciuti (UNMAPPED). Voci, esempi e trigger del catalogo restano citazioni: la guida umana [GUIDA-INGRESSO.md](GUIDA-INGRESSO.md) e la guida agente [AGENTS.md](AGENTS.md) ne fissano rango, destinatari e condizioni. Questo avviso non è un PASS e non è una modifica di [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills).
+
 ## 📚 Table of Contents  
 - [Document Skills](#-document-skills)  
 - [Development & Code Tools](#-development--code-tools)  
